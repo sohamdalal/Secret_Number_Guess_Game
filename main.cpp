@@ -5,7 +5,9 @@
 
 using namespace std;
 
+
 int main() {
+    int minnumber,maxnumber;
     srand(time(0));
     const int minNumber = 1;
     const int maxNumber = 100;
